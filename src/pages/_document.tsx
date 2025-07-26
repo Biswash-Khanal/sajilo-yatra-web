@@ -5,9 +5,9 @@ export default function Document() {
 		<Html lang="en">
       <Head>
         <link rel="icon" href="/favicon/favicon.ico" />
-        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+
       </Head>
-			<body className="antialiased">
+			<body className="antialiased text-text bg-background font-poppins ">
 				<Main />
 				<NextScript />
 			</body>
