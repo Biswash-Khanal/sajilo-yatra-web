@@ -1,11 +1,17 @@
 import { Calculator, Home, Map, MessageCircle } from "lucide-react";
 import { JSX } from "react";
 
+import logo from "@/assets/images/logo_square.png"
+
 export interface NavigationItemProps {
   href: string;
   label: string;
   icon: JSX.Element;
   isActive: boolean;
+}
+
+export const images = {
+  logo,
 }
 
 export const navItems = [
