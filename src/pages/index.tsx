@@ -7,7 +7,7 @@ export default function Home() {
 			<Head>
 				<title>Home</title>
 			</Head>
-			<div className="p-4 text-center">Welcome to Home Page</div>
+			<div className="p-4 text-center">Welcome to Homess sPage</div>
 		</div>
 	);
 }
