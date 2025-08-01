@@ -1,6 +1,6 @@
-import { images } from "@/assets/assets";
+
 import Head from "next/head";
-import Image from "next/image";
+
 
 // pages/index.tsx
 export default function Home() {
